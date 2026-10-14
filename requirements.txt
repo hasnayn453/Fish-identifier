@@ -1,0 +1,13 @@
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web UI
+gradio>=4.0.0
+
+# Data & Image
+Pillow>=9.0.0
+numpy>=1.24.0
+
+# Progress & Utils
+tqdm>=4.65.0
